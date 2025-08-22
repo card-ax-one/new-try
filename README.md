@@ -31,7 +31,7 @@ torch.backends.cudnn.deterministic = False
 torch.backends.cudnn.benchmark = True
 
 # ======================
-# 1. 类别映射（与你之前一致）
+# 1. 类别映射（与之前一致）
 # ======================
 class_to_idx = {
     "Honeysuckles": 0, "Gardenia": 1, "Tianhukui": 2, "Gouweibacao": 3, "Shuiqincai": 4,
