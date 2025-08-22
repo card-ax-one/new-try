@@ -1,5 +1,6 @@
 # new-try
-computer vision about classify
+# computer vision about classify
+'''python
 import os
 import json
 import math
