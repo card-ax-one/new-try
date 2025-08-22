@@ -1,2 +1,2 @@
 # new-try
-computer vision about classify
+computer vision about medical classify
